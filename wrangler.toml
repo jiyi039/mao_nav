@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "mao"
+name = 'mao'
 compatibility_date = "2026-10-08"
 
 [assets]
